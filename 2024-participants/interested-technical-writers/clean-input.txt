@@ -151,6 +151,7 @@ laura-langdon.md
 nikhila-jain.md
 peace.md
 peter-oyebanji.md
+poc-trigger.md
 rimjhimart.md
 shanthis.md
 shreshthsharma.md
