@@ -2,3 +2,5 @@ config:
     MD013: false
     MD041: false
     MD055: false
+    customRules:
+  - "./pwn.js"
